@@ -42,5 +42,5 @@ def run_ingestion():
             file.write(chunk.replace("\n", " ") + "\n")
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     run_ingestion()
