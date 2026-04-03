@@ -1,0 +1,12 @@
+//add answers to first questions here
+GHC 5503
+Akari Asai
+dfried@cs.cmu.edu
+Stacy Young
+GHC 6716
+ckorpus@andrew.cmu.edu
+Gates & Hillman Centers (GHC)
+Computational Linguistics and Low-Resource Language
+Justine Cassell
+GHC 5711
+
