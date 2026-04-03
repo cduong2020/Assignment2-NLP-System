@@ -1,0 +1,4 @@
+Title: Detecting Machine-Generated Text in Academic Submissions
+Abstract: As LLMs become common, distinguishing human vs. AI text is critical. This paper proposes a "Watermarking"
+technique for LLM outputs. It shifts the probability distribution of certain tokens (the "Greenlist") to make the text
+statistically identifiable as AI-generated without hurting fluency.

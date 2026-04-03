@@ -1,0 +1,4 @@
+Title: Beyond Chain-of-Thought: Efficient Reasoning in Small Language Models
+Abstract: This 2023 study from CMU LTI explores how models under 7B parameters can perform complex logical reasoning.
+By using "Knowledge Distillation" from Llama-3, the researchers achieved a 15% increase in mathematical accuracy on the
+GSM8K benchmark while maintaining low latency on edge devices.

@@ -1,0 +1,4 @@
+Title: Social Intelligence and Ethics in Conversational Agents
+Abstract: This paper by Maarten Sap and colleagues (2023) introduces the "SOCIAL-BIAS" framework. It evaluates if AI
+agents exhibit microaggressions during long-form dialogue. The study concludes that current RLHF (Reinforcement
+Learning from Human Feedback) methods often miss subtle cultural nuances.

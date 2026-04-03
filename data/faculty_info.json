@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Mona Diab",
+    "role": "LTI Director, Full Professor",
+    "interests": ["NLP", "Computational Linguistics", "Arabic NLP", "Responsible AI"],
+    "url": "https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"
+  },
+  {
+    "name": "Graham Neubig",
+    "role": "Associate Professor",
+    "interests": ["NLP", "Machine Translation", "Large Language Models", "Software Development"],
+    "url": "https://www.lti.cs.cmu.edu/people/faculty/neubig-graham.html"
+  },
+  {
+    "name": "Yonatan Bisk",
+    "role": "Assistant Professor",
+    "interests": ["Embodiment", "RoboNLP", "Grounding", "Vision and Language"],
+    "url": "https://www.lti.cs.cmu.edu/people/faculty/bisk-yonatan.html"
+  },
+  {
+    "name": "Lei Li",
+    "role": "Associate Professor",
+    "interests": ["Multilingual NLP", "AI Security", "LLM Watermarking", "Drug Discovery"],
+    "url": "https://www.lti.cs.cmu.edu/people/faculty/li-lei.html"
+  },
+  {
+    "name": "Maarten Sap",
+    "role": "Assistant Professor",
+    "interests": ["Social Intelligence", "AI Ethics", "Toxicity Detection", "Cultural Awareness"],
+    "url": "https://www.lti.cs.cmu.edu/people/faculty/sap-maarten.html"
+  },
+  {
+    "name": "Carolyn P. Rosé",
+    "role": "Professor",
+    "interests": ["Human-Computer Interaction", "Language Technologies for Education", "Machine Learning"],
+    "url": "https://www.lti.cs.cmu.edu/people/faculty/rose-carolyn.html"
+  },
+  {
+    "name": "Shinji Watanabe",
+    "role": "Associate Professor",
+    "interests": ["Speech Processing", "Spoken Language Translation", "Signal Processing"],
+    "url": "https://www.lti.cs.cmu.edu/people/faculty/watanabe-shinji.html"
+  }
+]

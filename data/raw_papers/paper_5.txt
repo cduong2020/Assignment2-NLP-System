@@ -1,0 +1,3 @@
+Title: OpenScholar: A Specialized LLM for Scientific Research
+Abstract: Announced in early 2024 by CMU LTI, OpenScholar is a RAG-based system designed to help researchers synthesize
+millions of papers. It uses a custom retriever to find "Gold Standard" evidence and provides citations for every claim made in its summary.
