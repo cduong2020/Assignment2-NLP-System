@@ -1,4 +1,6 @@
 Who is the current Director of the LTI and what are their research interests?
+Who’s running the LTI these days and what do they actually study?
+What is Openscholar and who released it
 What is OpenScholar and which organization announced it?
 Which faculty member focuses on Social Intelligence and AI Ethics?
 What was the specific improvement in mathematical accuracy found in the "Beyond Chain-of-Thought" paper?
@@ -9,9 +11,12 @@ Which professor is an expert in Speech Processing and Signal Processing?
 Does any research paper discuss microaggressions in AI agents?
 What are the research interests of Lei Li?
 In what office is Professor Jamie Callan located?
+Where is Jamie Callan's office?
 Which faculty member is joining the LTI in Fall 2026 to focus on Retrieval-Augmented Generation?
+Who is the new person starting in fall 2026 for RAG?
 What is the email address for Assistant Professor Daniel Fried?
 Who is the Ph.D. Program Manager at the LTI?
+Who do I talk to about the PhD program management?
 Where is the office of the LTI Office Manager, Joan Axelson?
 What is the email for the MLT Program Manager?
 In which building are the majority of LTI faculty offices located?
