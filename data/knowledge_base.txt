@@ -3,7 +3,7 @@ FACULTY INFO: Graham Neubig is a Associate Professor. Interests: NLP, Machine Tr
 FACULTY INFO: Yonatan Bisk is a Assistant Professor. Interests: Embodiment, RoboNLP, Grounding, Vision and Language. Profile: https://www.lti.cs.cmu.edu/people/faculty/bisk-yonatan.html
 FACULTY INFO: Lei Li is a Associate Professor. Interests: Multilingual NLP, AI Security, LLM Watermarking, Drug Discovery. Profile: https://www.lti.cs.cmu.edu/people/faculty/li-lei.html
 FACULTY INFO: Maarten Sap is a Assistant Professor. Interests: Social Intelligence, AI Ethics, Toxicity Detection, Cultural Awareness. Profile: https://www.lti.cs.cmu.edu/people/faculty/sap-maarten.html
-FACULTY INFO: Carolyn P. RosÃ© is a Professor. Interests: Human-Computer Interaction, Language Technologies for Education, Machine Learning. Profile: https://www.lti.cs.cmu.edu/people/faculty/rose-carolyn.html
+FACULTY INFO: Carolyn P. Rosé is a Professor. Interests: Human-Computer Interaction, Language Technologies for Education, Machine Learning. Profile: https://www.lti.cs.cmu.edu/people/faculty/rose-carolyn.html
 FACULTY INFO: Shinji Watanabe is a Associate Professor. Interests: Speech Processing, Spoken Language Translation, Signal Processing. Profile: https://www.lti.cs.cmu.edu/people/faculty/watanabe-shinji.html
 
 RESEARCH PAPER: Title: Beyond Chain-of-Thought: Efficient Reasoning in Small Language Models

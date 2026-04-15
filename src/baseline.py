@@ -25,5 +25,8 @@ def baseline_retrieval(query, k=3):
     # Return only the single best string
     return documents[best_index]
 
-results = baseline_retrieval("Who is the LTI Director?")
-print(results)
+results = []
+with open('questions.txt', 'r') as file:
+    for line in file:
+        print("Question: " + line)
+        print("Answer: " + baseline_retrieval(line))
