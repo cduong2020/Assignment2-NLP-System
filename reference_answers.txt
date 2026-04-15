@@ -1,4 +1,15 @@
-//add answers to first questions here
+Mona Diab; Research interests include NLP, Responsible AI, and Arabic NLP.
+Mona Diab; Research interests include NLP, Responsible AI, and Arabic NLP.
+An open-source model and repository for academic research; Allen Institute for AI (AI2)
+An open-source model and repository for academic research; Allen Institute for AI (AI2)
+Maarten Sap
+It improved performance on grade-school math word problems (GSM8K) by using verified reasoning steps.
+Alon Lavie; Graham Neubig; Robert Frederking
+LTI-Africa-10
+It embeds a statistical signal into the LLM's token distribution to track AI-generated text.
+Alan W Black
+Yes
+Multilingual NLP, AI Security, and Drug Discovery
 GHC 5503
 Akari Asai
 dfried@cs.cmu.edu
